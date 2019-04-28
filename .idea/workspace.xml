@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd8a49d0-821c-48ee-accc-9fc21ce43cd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/BasicAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/DependTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/ExpectException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/IgnorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/TimeOutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/groups/GroupsOnClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/groups/GroupsOnClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/groups/GroupsOnClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/groups/GroupsOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/multithread/MulitiThreadOnXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/multithread/MultiThreadOnAnnotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/parameter/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/parameter/ParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/suite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/suite/PayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/suite/SuiteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/resources/grouptest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/resources/params.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/resources/testing.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BelleAutoTest/src/main/resources/threadtest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BelleAutoTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BelleAutoTest/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/BelleAutoTest/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="865093565">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="fxml" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="16" />
+          <entry key="suite" value="1" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="16" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="2466" />
+          <entry key="suite" value="132" />
+          <entry key="xml" value="731" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2466" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="863" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/groups/GroupsOnMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#622#623#0" expanded="true" />
+                <element signature="e#691#692#0" expanded="true" />
+                <element signature="e#751#752#0" expanded="true" />
+                <element signature="e#819#820#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+                <element signature="e#948#949#0" expanded="true" />
+                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#1077#1078#0" expanded="true" />
+                <element signature="e#1136#1137#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/parameter/ParameterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/parameter/DataProviderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#819#820#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/multithread/MultiThreadOnAnnotion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/multithread/MulitiThreadOnXml.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/resources/threadtest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/TimeOutTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/resources/params.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/resources/testing.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/resources/grouptest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BelleAutoTest/pom.xml" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/BasicAnnotation.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/resources/suite.fxml" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/suite/PayTest.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/suite/LoginTest.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/resources/suite" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/suite/IgnorTest.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/suite/SuiteConfig.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/resources/testing.xml" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/groups/GroupsOnClass1.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/groups/GroupsOnClass2.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/groups/GroupsOnClass3.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/resources/grouptest.xml" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/DependTest.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/ExpectException.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/IgnorTest.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/groups/GroupsOnMethod.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/resources/params.xml" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/parameter/ParameterTest.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/parameter/DataProviderTest.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/mutithread/MultiThreadOnAnnotion.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/multithread/MultiThreadOnAnnotion.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/multithread/MulitiThreadOnXml.java" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/resources/threadtest.xml" />
+        <option value="$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/TimeOutTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Tools/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="$USER_HOME$/Tools/apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="105" />
+    <option name="y" value="23" />
+    <option name="width" value="1213" />
+    <option name="height" value="737" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="BelleAutoTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="BelleAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="BelleAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="BelleAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="BelleAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="BelleAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="BelleAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Provide&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar!/javax/xml/ws/spi/Provider.class" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556434033529" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TimeOutTest">
+    <configuration name="DataProviderTest.test1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BelleAutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.belle.code.parameter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.belle.code.parameter" />
+      <option name="MAIN_CLASS_NAME" value="com.belle.code.parameter.DataProviderTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderTest.test2" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BelleAutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.belle.code.parameter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.belle.code.parameter" />
+      <option name="MAIN_CLASS_NAME" value="com.belle.code.parameter.DataProviderTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThreadOnAnnotion" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BelleAutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.belle.code.multithread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.belle.code.mutithread" />
+      <option name="MAIN_CLASS_NAME" value="com.belle.code.multithread.MultiThreadOnAnnotion" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeOutTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BelleAutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.belle.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.belle.code" />
+      <option name="MAIN_CLASS_NAME" value="com.belle.code.TimeOutTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/zhulinping/workspace/javaCode/AutoTest/BelleAutoTest/src/main/resources/threadtest.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BelleAutoTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/BelleAutoTest/src/main/resources/threadtest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.DataProviderTest.test1" />
+      <item itemvalue="TestNG.DataProviderTest.test2" />
+      <item itemvalue="TestNG.MultiThreadOnAnnotion" />
+      <item itemvalue="TestNG./Users/zhulinping/workspace/javaCode/AutoTest/BelleAutoTest/src/main/resources/threadtest.xml" />
+      <item itemvalue="TestNG.TimeOutTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TimeOutTest" />
+        <item itemvalue="TestNG./Users/zhulinping/workspace/javaCode/AutoTest/BelleAutoTest/src/main/resources/threadtest.xml" />
+        <item itemvalue="TestNG.MultiThreadOnAnnotion" />
+        <item itemvalue="TestNG.DataProviderTest.test2" />
+        <item itemvalue="TestNG.DataProviderTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd8a49d0-821c-48ee-accc-9fc21ce43cd1" name="Default Changelist" comment="" />
+      <created>1556285356343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556285356343</updated>
+      <workItem from="1556285361299" duration="4659000" />
+      <workItem from="1556422603508" duration="4552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DataProviderTest - 2019.04.28 at 12h 08m 55s.xml">
+      <configuration name="DataProviderTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DataProviderTest_(1) - 2019.04.28 at 12h 11m 08s.xml">
+      <configuration name="DataProviderTest (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DataProviderTest_test1 - 2019.04.28 at 12h 17m 25s.xml">
+      <configuration name="DataProviderTest.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DataProviderTest_test2 - 2019.04.28 at 12h 17m 38s.xml">
+      <configuration name="DataProviderTest.test2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MultiThreadOnAnnotion - 2019.04.28 at 12h 23m 16s.xml">
+      <configuration name="MultiThreadOnAnnotion" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MultiThreadOnAnnotion - 2019.04.28 at 12h 23m 44s.xml">
+      <configuration name="MultiThreadOnAnnotion" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MultiThreadOnAnnotion - 2019.04.28 at 12h 25m 36s.xml">
+      <configuration name="MultiThreadOnAnnotion" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_zhulinping_workspace_javaCode_AutoTest_BelleAutoTest_src_main_resources_threadtest_xml - 2019.04.28 at 12h 30m 52s.xml">
+      <configuration name="/Users/zhulinping/workspace/javaCode/AutoTest/BelleAutoTest/src/main/resources/threadtest.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_zhulinping_workspace_javaCode_AutoTest_BelleAutoTest_src_main_resources_threadtest_xml - 2019.04.28 at 12h 36m 25s.xml">
+      <configuration name="/Users/zhulinping/workspace/javaCode/AutoTest/BelleAutoTest/src/main/resources/threadtest.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TimeOutTest - 2019.04.28 at 12h 46m 28s.xml">
+      <configuration name="TimeOutTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9211000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="105" y="23" width="1213" height="737" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536294" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41860464" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32868218" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32868218" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/BelleAutoTest.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/resources/suite.fxml" />
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/suite/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/resources/suite" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.10/testng-6.10.jar!/org/testng/TestNG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="297" selection-start-line="297" selection-end-line="297" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/BasicAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/suite/SuiteConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/suite/PayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/groups/GroupsOnClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/groups/GroupsOnClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/groups/GroupsOnClass3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/resources/testing.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/resources/grouptest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/DependTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/ExpectException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/IgnorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/groups/GroupsOnMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1136#1137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/resources/params.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/parameter/ParameterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar!/javax/xml/ws/spi/Provider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#5428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/parameter/DataProviderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/multithread/MultiThreadOnAnnotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/multithread/MulitiThreadOnXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/resources/threadtest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BelleAutoTest/src/main/java/com/belle/code/TimeOutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

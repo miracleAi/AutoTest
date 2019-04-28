@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="paramsSuite">
+    <test name="params">
+        <classes>
+            <parameter name="name" value="tom"/>
+            <parameter name="age" value="18"/>
+            <class name="com.belle.code.parameter.ParameterTest"/>
+        </classes>
+    </test>
+</suite>
